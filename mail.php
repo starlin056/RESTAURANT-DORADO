@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Configurar el destinatario del correo y el asunto
-    $to = "starlin056@gmail.com"; // Cambia esto al correo donde deseas recibir los mensajes
+    $to = "##############"; // Cambia esto al correo donde deseas recibir los mensajes
     $subject = "Nueva Reservación";
 
     // Construir el cuerpo del mensaje
