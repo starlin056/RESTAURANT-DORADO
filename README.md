@@ -1,5 +1,5 @@
 # RESTAURANT-DORADO
-Pagina estática del Restaurant el Dorado, el cual está ubicado en san francisco de Macoris
+Pagina  del Restaurant el Dorado, el cual está ubicado en san francisco de Macoris
 
 Sitio web oficial del Restaurante El Dorado, desarrollado como una aplicación web moderna para presentar la oferta gastronómica, ubicación, galería y contacto del restaurante ubicado en Punta Cana, República Dominicana.
 
