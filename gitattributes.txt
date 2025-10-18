@@ -1,0 +1,10 @@
+# Ignorar dependencias externas al calcular el lenguaje
+/vendor/** linguist-vendored
+/node_modules/** linguist-vendored
+
+# Ignorar archivos en C y cabeceras
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+
+# Forzar el lenguaje principal a PHP
+*.php linguist-language=PHP
